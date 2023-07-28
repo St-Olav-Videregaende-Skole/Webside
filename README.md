@@ -194,27 +194,3 @@ RUN echo "</Directory>" >> /etc/apache2/apache2.conf
 RUN chmod +x /var/www/html/index.pl
 
 ```
-<h3>Java</h3>
-
-<h2><center>My notes for Website</center></h2>
-
-This is just a test to see how my github project works with docker
-
-Testing auto update with watchtower. 
-<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
-
-
-Testing database
-<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
-
-Testing html
-<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
-
-
-Testing perl
-<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
-
-setup mariadb and phpmyadmin 
-<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
-
-check env variables if they keeps the secrets
